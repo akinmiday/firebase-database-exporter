@@ -109,9 +109,9 @@ The app will be available at `http://localhost:5173`.
 
 ## Important Notes
 
-Collection Must Exist: The Firestore collection you want to export must exist in your Firestore database. If the collection does not exist, the app will display an error message, and the export will not proceed.
+- Collection Must Exist: The Firestore collection you want to export must exist in your Firestore database. If the collection does not exist, the app will display an error message, and the export will not proceed.
 
-Firestore Rules: Ensure your Firestore security rules allow read access to the collection you want to export. Otherwise, the app won't be able to fetch the data.
+- Firestore Rules: Ensure your Firestore security rules allow read access to the collection you want to export. Otherwise, the app won't be able to fetch the data.
 
 ---
 
@@ -191,7 +191,10 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/akinmiday/firestore-data-exporter/issues).
+If you encounter any issues or have questions, feel free to:
+
+- Open an issue on the [GitHub repository](https://github.com/akinmiday/firestore-data-exporter/issues).
+- Reach out to me on Twitter: [@akinmiday](https://x.com/akinmiday).
 
 ---
 
