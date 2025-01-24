@@ -107,6 +107,14 @@ The app will be available at `http://localhost:5173`.
 
 ---
 
+## Important Notes
+
+Collection Must Exist: The Firestore collection you want to export must exist in your Firestore database. If the collection does not exist, the app will display an error message, and the export will not proceed.
+
+Firestore Rules: Ensure your Firestore security rules allow read access to the collection you want to export. Otherwise, the app won't be able to fetch the data.
+
+---
+
 ## Project Structure
 
 ```
