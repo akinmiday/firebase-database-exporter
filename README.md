@@ -30,7 +30,7 @@ To run this project, you need the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/akinmiday/firestore-data-exporter.git
+git clone https://github.com/akinmiday/firebase-database-exporter.git
 cd firestore-data-exporter
 ```
 
@@ -193,11 +193,11 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 If you encounter any issues or have questions, feel free to:
 
-- Open an issue on the [GitHub repository](https://github.com/akinmiday/firestore-data-exporter/issues).
+- Open an issue on the [GitHub repository](https://github.com/akinmiday/firebase-database-exporter/issues).
 - Reach out to me on Twitter: [@akinmiday](https://x.com/akinmiday).
 
 ---
 
-Enjoy exporting your Firestore data with ease! 🚀
+Enjoy exporting your Firebase data with ease! 🚀
 
 ---
