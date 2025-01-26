@@ -31,7 +31,7 @@ To run this project, you need the following:
 
 ```bash
 git clone https://github.com/akinmiday/firebase-database-exporter.git
-cd firestore-data-exporter
+cd firebase-database-exporter
 ```
 
 ### 2. Install Dependencies
