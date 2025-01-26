@@ -95,7 +95,7 @@ const ExportDataButton = () => {
         setCollectionExists(false);
         setExportSuccess(false);
         setSuccessMessage("");
-      }, 3000); // Reset after 3 seconds
+      }, 8000); // Reset after 3 seconds
     } catch (error) {
       console.error("Error exporting data:", error);
       alert("An error occurred while exporting data.");
